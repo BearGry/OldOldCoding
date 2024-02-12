@@ -1,0 +1,5 @@
+# ninja log v5
+15	363	6869234809746458	CMakeFiles/Sqlist2.dir/Sqlist.cpp.obj	29f632e58e967e50
+1	243	6879561374386756	build.ninja	f4feaa8e6b195f27
+3	343	6869234809583044	CMakeFiles/Sqlist2.dir/test_sqlist.cpp.obj	96f25083f36ee9d4
+363	499	6869234811103874	Sqlist2.exe	8208a2772047a8ca

@@ -1,0 +1,7 @@
+# ninja log v5
+1	417	6879712912320870	CMakeFiles/Queue_link.dir/main.cpp.obj	d1e535e43c66b1c8
+56	428	6879712912435867	CMakeFiles/Queue_link.dir/Queue.cpp.obj	1bf54f9dace4f967
+46	439	6879712912560886	CMakeFiles/Queue_link.dir/link.cpp.obj	b20d578ac76a5c01
+440	608	6879712914198446	Queue_link.exe	951704d7654870bc
+3	287	6879713321077448	CMakeFiles/Queue_link.dir/main.cpp.obj	d1e535e43c66b1c8
+288	412	6879713322283052	Queue_link.exe	951704d7654870bc

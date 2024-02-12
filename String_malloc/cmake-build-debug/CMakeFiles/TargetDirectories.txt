@@ -1,0 +1,3 @@
+C:/CLionProjects/String_malloc/cmake-build-debug/CMakeFiles/String_malloc.dir
+C:/CLionProjects/String_malloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/String_malloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

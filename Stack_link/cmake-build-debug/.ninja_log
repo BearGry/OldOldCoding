@@ -1,0 +1,5 @@
+# ninja log v5
+0	386	6879652604935184	CMakeFiles/Stack_link.dir/main.cpp.obj	66252b8eaeb827bc
+10	392	6879652604995179	CMakeFiles/Stack_link.dir/Stack.cpp.obj	7ff3d91d2da2a94c
+2	321	6879666698940164	CMakeFiles/Stack_link.dir/link.cpp.obj	230361a101cb2c3a
+322	453	6879666700214676	Stack_link.exe	8baa5a90f2754382
